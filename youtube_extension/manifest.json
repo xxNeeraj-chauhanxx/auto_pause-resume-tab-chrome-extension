@@ -24,5 +24,9 @@
     "16": "icon.png",
     "48": "icon.png",
     "128": "icon.png"
-  }
+  },
+  "homepage_url": "https://github.com/xxNeeraj-chauhanxx/auto_pause-resume-tab-chrome-extension",
+  "developer": {
+    "name": "Your Name",
+    "url": "https://github.com/xxNeeraj-chauhanxx"}
 }
